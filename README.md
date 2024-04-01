@@ -1,4 +1,4 @@
-# BCG Open-Access Data Science Advanced Analytics Virtual Experience Program
+# BCG Data Science Advanced Analytics Virtual Experience Program
 
       Program has 4 modules
             
